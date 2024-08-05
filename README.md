@@ -11,7 +11,6 @@ This is a basic 3D visualization program that displays a sphere with a randomly 
 - Computer-generated planet texture
 - Day/night cycle simulation
 - Two camera modes: orbit and free movement
-- Basic collision detection
 - Configurable parameters
 
 ## Requirements
