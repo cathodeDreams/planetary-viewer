@@ -4,6 +4,8 @@
 
 This is a basic 3D visualization program that displays a sphere with a randomly generated textured surface. It includes rudimentary day/night cycle effects and allows for camera movement around the planet.
 
+![Planetary Viewer Screenshot](ball.png)
+
 ## Features
 
 - Computer-generated planet texture
